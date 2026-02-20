@@ -1,8 +1,19 @@
-# Hi, I'm **Kunal Vishwakarma**
+# 👋 Hi, I'm **Kunal Vishwakarma**
 
-### **Technical Project Manager | Datacenter SME | Cloud & Infrastructure Architect**
+### **Technical Project Manager | Datacenter SME | Cloud & Infrastructure Architect | Multimodal AI Platform Practitioner**
 
 I design, migrate, and modernize enterprise‑scale infrastructure across Azure, hybrid cloud, and on‑prem data centers. With 20+ years of experience across regulated industries, I specialize in **cloud migration programs, secure infrastructure delivery, and technical project leadership**.
+
+As part of my routine work as a Technical Project Manager and Infrastructure Architect, I use multimodal AI platforms to support:
+
+• Project governance (RAID logs, risk analysis, impact assessments)
+• Cloud architecture validation (Azure, hybrid cloud, security models)
+• Automation of documentation, runbooks, and technical summaries
+• Stakeholder communication and decision-support insights
+• Process optimization across DevOps, ITSM, and cloud migration programs
+
+AI enhances my ability to deliver faster, maintain accuracy, and ensure consistent quality across complex technical projects.
+
 
 📍 Oslo, Norway  
 📧 vkunal@gmail.com  
@@ -13,8 +24,9 @@ I design, migrate, and modernize enterprise‑scale infrastructure across Azure,
 
 ## 🚀 About Me
 
-I’m a Senior Technical Project Manager and Infrastructure Architect with deep expertise in:
+I’m a Senior Technical Project Manager and Infrastructure Architect with deep expertise in: 
 
+- Utilising MultiModel AI plateform, 1min.AI and Chatplayground.AI
 - Azure Cloud (IaaS, Security, Governance)  
 - Datacenter Migration & Hybrid Cloud  
 - IT Infrastructure Architecture  
@@ -90,7 +102,30 @@ I’ve led multi‑million‑dollar cloud and datacenter programs, built offshor
 - Azure IaaS, Security, Governance  
 - Datacenter Migration  
 - Hybrid Cloud Architecture  
-- Virtualization (Hyper‑V)
+
+### **Key Projects Delivered | Achievements**
+
+- Network Optimization Project, Proxy Upgrade  
+- HCC United States: Datacenter Optimization, Cloud Migration  
+- HCD United States: Datacenter Optimization, Cloud Migration  
+- Product LAB: Dedicated secure LAB in the UK at the customer location  
+- Russia LED Site: New branch office setup in Russia  
+- 3PA: Azure B2B Solution implementation, Azure Cloud  
+- OneDrive: On-premises user data migration to Azure Cloud  
+- Dvalin: Network projects, branch office expansion  
+- NCS 2020: Setting up remote site VPN for Customer Secure LAB  
+- MHWirth: Setting up new VPN with multi-vendor engagement  
+- MS Defender Rollout: McAfee migration and upgrade to MS Defender  
+- Veidekke Cloud: Azure Cloud migration (Norway & Sweden Datacenter)  
+- MHWirth Intune Setup: Setting up Intune functionality for on-premises  
+- MHWirth SAP Fiori: SAP Fiori integration over Intune  
+- Datacenter Decommission Norway: Reducing the on-premises footprint, Cloud Migration  
+- KOP-IT Malaysia: De-merger & Migration to New Tenant  
+- Visitor System: Implementing visitor system, KIOSK-based solutions  
+- AKER Tech House: Setting up IT Physical Security Infrastructure  
+- Branch Office Decommission: 10 Locations  
+- HMH: New Branch office setup, Azure Cloud Migration  
+
 
 ### **Project & Program Management**
 - Agile, PRINCE2  
@@ -106,7 +141,6 @@ I’ve led multi‑million‑dollar cloud and datacenter programs, built offshor
 
 ### **Tools**
 - Azure DevOps  
-- Jira  
 - Smartsheet  
 - Microsoft Project  
 - Asana  
