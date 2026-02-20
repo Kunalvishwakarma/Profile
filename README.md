@@ -1,72 +1,147 @@
-# Kunal – Project & Delivery Portfolio
+# 👋 Hi, I'm **Kunal Vishwakarma**
 
-Based in Oslo, Norway | Open to Relocation  
-LinkedIn: www.linkedin.com/in/kunalkv  
+### **Technical Project Manager | Datacenter SME | Cloud & Infrastructure Architect**
 
----
+I design, migrate, and modernize enterprise‑scale infrastructure across Azure, hybrid cloud, and on‑prem data centers. With 20+ years of experience across regulated industries, I specialize in **cloud migration programs, secure infrastructure delivery, and technical project leadership**.
 
-## About Me
-Project Manager and Cloud Transformation Specialist with hands-on experience in:
-- Datacenter Operations & Infrastructure Management
-- Business-Critical Application Migrations
-- Azure Cloud Migration & Modernization
-- Stakeholder & Vendor Management
-- Delivery Leadership across global, cross-functional teams
-
-I enjoy leading complex transformation programs, simplifying execution for teams, and ensuring stable, predictable outcomes for business-critical environments.
+📍 Oslo, Norway  
+📧 vkunal@gmail.com  
+📞 +47 40806338  
+🔗 [LinkedIn](https://www.linkedin.com/in/kunalkv)
 
 ---
 
-## Key Projects Delivered
+## 🚀 About Me
 
-### 1. Enterprise Azure Migration Program
-**Role:** Project Manager  
-**Overview:** Led the migration of business-critical applications to Azure across multiple waves.  
-**Key Contributions:**
-- Coordinated infra, app, and security teams across regions  
-- Delivered zero-downtime cutovers for critical workloads  
-- Improved operational stability post-migration  
-- Managed risks, dependencies, and stakeholder communication end-to-end  
+I’m a Senior Technical Project Manager and Infrastructure Architect with deep expertise in:
 
----
+- Azure Cloud (IaaS, Security, Governance)  
+- Datacenter Migration & Hybrid Cloud  
+- IT Infrastructure Architecture  
+- Cybersecurity & Compliance  
+- ITSM, Service Transition, and Operations  
+- Vendor & Stakeholder Management  
+- Program Governance and Delivery Leadership  
 
-### 2. Datacenter Operations & Consolidation
-**Role:** Delivery Lead  
-**Overview:** Managed multi-region datacenter operations and consolidation activities.  
-**Key Contributions:**
-- Streamlined operational processes and reduced incident volume  
-- Implemented monitoring and automation improvements  
-- Ensured compliance and security alignment across environments  
+I’ve led multi‑million‑dollar cloud and datacenter programs, built offshore delivery centers, and driven transformation initiatives across Europe and APAC.
 
 ---
 
-### 3. Business-Critical Application Migration
-**Role:** Project Manager  
-**Overview:** Executed migration of high-availability applications with strict SLAs.  
-**Key Contributions:**
-- Ensured performance, security, and compliance benchmarks  
-- Delivered ahead of schedule with minimal business disruption  
-- Coordinated with product owners and engineering teams for smooth transition  
+## 🏢 Professional Experience
+
+### **Technical Program Manager – Cloud & Security**  
+**Cognizant Oil & Gas Consulting Services Norway AS**  
+*2019 – Present*
+
+- Lead Azure migration programs using Jira & Azure DevOps.  
+- Drive governance: RAID logs, BCM/DR, compliance, risk mitigation.  
+- Coordinate with Microsoft, Cisco, HP, and cloud vendors.  
+- Manage demand intake, cost estimation, and SoW/RFP processes.  
+- Align business, infra, and security teams across the project lifecycle.
 
 ---
 
-## Appreciations & Recognitions
-- Recognized for leading successful Azure migration waves  
-- Appreciation from leadership for stakeholder communication and delivery discipline  
-- Acknowledged by cross-functional teams for collaboration and execution excellence  
+### **Technical Lead / Associate Operations Manager**  
+**Cognizant Technology Solutions India | Pune**  
+*2013 – 2019*
+
+- Established Barclays’ Offshore Development Center (ODC) in Pune.  
+- Led Web Infrastructure for Barclays Technology Solutions.  
+- Managed F5, Bluecoat, Infoblox, Linux, Tumbleweed, Fix‑Gateways.  
+- Directed a 20‑member team supporting US/EMEA/APAC.  
+- Handled 500–1000 daily L1/L2 support interactions.
 
 ---
 
-## Skills & Tools
-- Azure Migration | Landing Zones | Workload Transition  
-- Datacenter Operations | Monitoring | Automation  
-- Project & Program Management  
-- ITIL, Agile, and Hybrid Delivery Models  
-- Cross-border team leadership  
+### **Technical Project Lead**  
+**Compucom | Pune**  
+*2010 – 2011*
+
+- Migrated 100+ servers to Azure.  
+- Managed Hyper‑V private cloud operations.  
+- Led Windows Server migrations (2003/2008 → 2012).  
+- Maintained 100% SLA for customer issues.
 
 ---
 
-## Contact
-Feel free to reach out for collaboration or opportunities.  
-Email: *your email*  
-LinkedIn: www.linkedin.com/in/kunalkv
+### **Senior Network Administrator & Project Engineer**  
+**NETSOL IBM India | Mumbai**  
+*2009 – 2010*
+
+- Designed scalable LAN/WAN architectures.  
+- Implemented firewalls, VPNs, and network security.  
+- Managed vendor contracts and DR documentation.
+
+---
+
+### **Network Administrator**  
+**Ashtech Infotech | Mumbai**  
+*2005 – 2009*
+
+- Deployed Cisco routers/switches across 35+ branches.  
+- Managed VSAT, ISDN, leased lines, and Check Point firewalls.  
+- Led national‑scale network upgrades for Lupin.
+
+---
+
+## 🛠 Core Skills
+
+### **Cloud & Infrastructure**
+- Azure IaaS, Security, Governance  
+- Datacenter Migration  
+- Hybrid Cloud Architecture  
+- Virtualization (Hyper‑V)
+
+### **Project & Program Management**
+- Agile, PRINCE2  
+- RAID, BCM, DR  
+- RFP, SoW, Vendor Management  
+- Stakeholder Communication
+
+### **Networking & Security**
+- Cisco Routing & Switching  
+- F5 Load Balancing  
+- Bluecoat, Infoblox, Check Point  
+- Cybersecurity & Compliance
+
+### **Tools**
+- Azure DevOps  
+- Jira  
+- Smartsheet  
+- Microsoft Project  
+- Asana  
+
+---
+
+## 🎓 Certifications
+
+- Microsoft Certified Azure Security Engineer Associate  
+- Microsoft Certified Azure Administrator Associate  
+- ITIL Foundation – EXIN  
+- PRINCE2 Agile®  
+- Cisco CCNA Voice  
+- DRDO – Cyber Security  
+- Certified Cybercrime Intervention Officer (CCIO)  
+- Alibaba Cloud Certification  
+- Aviatrix Multi‑Cloud Certification  
+- BICSI Datacenter Design & Infrastructure  
+
+---
+
+## 🏆 Awards & Recognition
+
+- Best Performer – Barclays Bank Project  
+- Best Innovation – SaiTech (Government) Project  
+- Best Performer – Telenet Belgium  
+- GEM Award – Kværner & HMH  
+- Multiple Client Appreciations  
+
+---
+
+
+## 📫 Let’s Connect
+
+If you're working on cloud transformation, datacenter modernization, or infrastructure strategy, I’d love to collaborate.
+
+🔗 [LinkedIn](https://www.linkedin.com/in/kunalkv)  
+📧 vkunal@gmail.com
