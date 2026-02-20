@@ -1,6 +1,6 @@
 # 👋 Hi, I'm **Kunal Vishwakarma**
 
-### **Technical Project Manager | Datacenter SME | Cloud & Infrastructure Architect | Multimodal AI Platform Practitioner**
+### **Technical Project Manager | Datacenter SME | Cloud & Infrastructure Architect | Multimodal AI Platform Practitioner  | Open-source intelligence (OSINT)**
 
 I design, migrate, and modernize enterprise‑scale infrastructure across Azure, hybrid cloud, and on‑prem data centers. With 20+ years of experience across regulated industries, I specialize in **cloud migration programs, secure infrastructure delivery, and technical project leadership**.
 
