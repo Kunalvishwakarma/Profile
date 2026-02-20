@@ -24,7 +24,7 @@ AI enhances my ability to deliver faster, maintain accuracy, and ensure consiste
 
 ## 🚀 About Me
 
-I’m a Senior Technical Project Manager and Infrastructure Architect with deep expertise in: 
+I’m a Technical Project Manager and Infrastructure Architect with deep expertise in: 
 
 - Utilising MultiModel AI plateform, 1min.AI and Chatplayground.AI
 - Azure Cloud (IaaS, Security, Governance)  
@@ -69,7 +69,7 @@ I’ve led multi‑million‑dollar cloud and datacenter programs, built offshor
 **Compucom | Pune**  
 *2010 – 2011*
 
-- Migrated 100+ servers to Azure.  
+- Migrated 100+ server Migration for Wallmart.  
 - Managed Hyper‑V private cloud operations.  
 - Led Windows Server migrations (2003/2008 → 2012).  
 - Maintained 100% SLA for customer issues.
@@ -90,9 +90,52 @@ I’ve led multi‑million‑dollar cloud and datacenter programs, built offshor
 **Ashtech Infotech | Mumbai**  
 *2005 – 2009*
 
-- Deployed Cisco routers/switches across 35+ branches.  
-- Managed VSAT, ISDN, leased lines, and Check Point firewalls.  
-- Led national‑scale network upgrades for Lupin.
+## **Network Administrator — ASHTECH INFOTECH PVT LTD | Mumbai**
+**01/07/2005 – 31/12/2009**
+
+Design and maintain scalable network solutions for high performance.  
+Align network architectures with business needs for future growth.  
+- Oversee LAN, WAN, and wireless configurations for optimal performanceand security.  
+- Troubleshoot network issues involving routers, switches, and firewalls.  
+- Assess network performance and identify opportunities for optimization.  
+- Enhance network uptime and availability for uninterrupted operations.  
+- Implement security measures, such as firewalls, VPNs, and monitoring.  
+- Monitor network activity for potential threats and deploy preventionstrategies.  
+- Collaborate with teams to determine networking requirements andintegrate new technologies.  
+- Lead network projects to ensure timely and efficient completion.  
+- Mentor junior engineers and support staff to foster professional growth.  
+- Maintain documentation for network configurations, upgrades, andtroubleshooting processes.  
+- Report on network performance, issues, and improvement strategies tomanagement.  
+- Create technical documents for operations and disaster recoveryplanning.  
+- Manage vendor relationships for network hardware and software withinbudget constraints.  
+- Oversee network hardware acquisition to meet budget and technicalneeds.  
+Manage contracts and warranties for networking equipment.
+
+---
+
+### **New Branch Router Rollouts**
+- Deployed Cisco 1841 routers and various switches (2960, 2950, 2970,3750G, 4503).  
+- Maintained reliable leased lines, VSAT, and ISDN links.  
+- Managed seamless WAN connectivity.  
+- Resolved ISDN and leased line issues for 26 locations and 35 branches,using VSAT and ISDN BRI as backups.  
+- Collaborated with Reliance, TATA, and HUGHES for hardware support.  
+- Maintained a centralized database for network devices.
+
+---
+
+### **Lupin Projects**
+- Migrated to Symantec Antivirus (SAV 9.0).  
+- Conducted nationwide data collection.  
+- Upgraded VSAT infrastructure for 33 sites.  
+- Enhanced manufacturing plant networks.  
+- Implemented monitoring tools (MRTG, NetFlow Analyzer).  
+- Created extensive network documentation.  
+- Managed Nokia IP 220 and over 350 Check Point firewalls for securitypurposes.  
+- Conducted LAN/WAN implementations on Microsoft platforms.  
+- Oversaw Clinical Research Operations in Pune  
+- Expanded R&D networks in Goa and Pune.  
+- Completed LAN/WAN projects in Jammu
+
 
 ---
 
@@ -162,13 +205,14 @@ I’ve led multi‑million‑dollar cloud and datacenter programs, built offshor
 
 ---
 
-## 🏆 Awards & Recognition
+## 🏅 Appreciation & Awards
 
-- Best Performer – Barclays Bank Project  
-- Best Innovation – SaiTech (Government) Project  
-- Best Performer – Telenet Belgium  
-- GEM Award – Kværner & HMH  
-- Multiple Client Appreciations  
+- 🏆 **Best Performer – Barclays Capital**
+- 💡 **Best Innovation – SaiTech Shirdi Temple**
+- 🥇 **GEM Award – Aker Solutions**
+- 🌟 **Multiple Client Appreciations**
+- 🚀 Recognized for Cloud, Datacenter, Security & Network Transformation Projects
+
 
 ---
 
