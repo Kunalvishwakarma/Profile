@@ -16,8 +16,6 @@ AI enhances my ability to deliver faster, maintain accuracy, and ensure consiste
 
 
 📍 Oslo, Norway  
-📧 vkunal@gmail.com  
-📞 +47 40806338  
 🔗 [LinkedIn](https://www.linkedin.com/in/kunalkv)
 
 ---
