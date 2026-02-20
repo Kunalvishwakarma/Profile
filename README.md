@@ -15,7 +15,7 @@ As part of my routine work as a Technical Project Manager and Infrastructure Arc
 AI enhances my ability to deliver faster, maintain accuracy, and ensure consistent quality across complex technical projects.
 
 
-📍 Oslo, Norway  
+📍 Oslo, Norway, Email : github.ablaze588@passinbox.com
 🔗 [LinkedIn](https://www.linkedin.com/in/kunalkv)
 
 ---
@@ -220,4 +220,4 @@ Manage contracts and warranties for networking equipment.
 If you're working on cloud transformation, datacenter modernization, or infrastructure strategy, I’d love to collaborate.
 
 🔗 [LinkedIn](https://www.linkedin.com/in/kunalkv)  
-📧 vkunal@gmail.com
+📧 github.ablaze588@passinbox.com
