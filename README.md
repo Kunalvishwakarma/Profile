@@ -1,4 +1,4 @@
-# 👋 Hi, I'm **Kunal Vishwakarma**
+# Hi, I'm **Kunal Vishwakarma**
 
 ### **Technical Project Manager | Datacenter SME | Cloud & Infrastructure Architect**
 
