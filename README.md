@@ -1,10 +1,13 @@
 # 👋 Hi, I'm **Kunal Vishwakarma**
+📍 Oslo, Norway, 
+  Email : github.ablaze588@passinbox.com
+🔗[LinkedIn](https://www.linkedin.com/in/kunalkv)
+
+My Projects : https://github.com/Kunalvishwakarma/Profile/wiki/KEY-PROJECT-EXPERIENCE
 
 ### **Technical Project Manager | Datacenter SME | Cloud & Infrastructure Architect | Multimodal AI Platform Practitioner  | Open-source intelligence (OSINT)**
 
-I design, migrate, and modernize enterprise‑scale infrastructure across Azure, hybrid cloud, and on‑prem data centers. With 20+ years of experience across regulated industries, I specialize in **cloud migration programs, secure infrastructure delivery, and technical project leadership**.
-
-As part of my routine work as a Technical Project Manager and Infrastructure Architect, I use multimodal AI platforms to support:
+20+ years of experience across regulated industries, I specialize in **cloud migration programs, secure infrastructure delivery, and technical project leadership**. As part of my routine work as a Technical Project Manager and Infrastructure Architect, I use multimodal AI platforms to support:
 
 • Project governance (RAID logs, risk analysis, impact assessments)
 • Cloud architecture validation (Azure, hybrid cloud, security models)
@@ -13,12 +16,6 @@ As part of my routine work as a Technical Project Manager and Infrastructure Arc
 • Process optimization across DevOps, ITSM, and cloud migration programs
 
 AI enhances my ability to deliver faster, maintain accuracy, and ensure consistent quality across complex technical projects.
-
-
-📍 Oslo, Norway, Email : github.ablaze588@passinbox.com
-🔗 [LinkedIn](https://www.linkedin.com/in/kunalkv)
-
-My Projects : https://github.com/Kunalvishwakarma/Profile/wiki/KEY-PROJECT-EXPERIENCE
 
 ---
 
@@ -45,7 +42,7 @@ I’ve led multi‑million‑dollar cloud and datacenter programs, built offshor
 **Cognizant Oil & Gas Consulting Services Norway AS**  
 *2019 – Present*
 
-- Lead Azure migration programs using Jira & Azure DevOps.  
+- Lead Azure migration programs using Jira & Azure DevOps Board.  
 - Drive governance: RAID logs, BCM/DR, compliance, risk mitigation.  
 - Coordinate with Microsoft, Cisco, HP, and cloud vendors.  
 - Manage demand intake, cost estimation, and SoW/RFP processes.  
