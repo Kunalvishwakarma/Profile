@@ -188,7 +188,9 @@ Manage contracts and warranties for networking equipment.
 ---
 
 ## 🎓 Certifications
-
+- MCP, Microsoft Certified Professional
+- MCP+I, Microsoft Certified Professional + Internet
+- MCSE,Microsoft Certified System Engineer
 - Microsoft Certified Azure Security Engineer Associate  
 - Microsoft Certified Azure Administrator Associate  
 - ITIL Foundation – EXIN  
@@ -216,7 +218,7 @@ Manage contracts and warranties for networking equipment.
 
 ## 📫 Let’s Connect
 
-If you're working on cloud transformation, datacenter modernization, or infrastructure strategy, I’d love to collaborate.
+If you're working on cloud transformation, datacenter modernization,Optimization or infrastructure strategy, I’d love to collaborate.
 
 🔗 [LinkedIn](https://www.linkedin.com/in/kunalkv)  
 📧 github.ablaze588@passinbox.com
