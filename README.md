@@ -1,6 +1,6 @@
 # 👋 Hi, I'm **Kunal Vishwakarma**
 📍 Oslo, Norway, 
-  Email : vkunal@gmail.com 
+  Email : contact@kunalv.me 
 🔗[LinkedIn](https://www.linkedin.com/in/kunalkv)
 
 ---
