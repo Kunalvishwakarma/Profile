@@ -209,4 +209,3 @@ Manage contracts and warranties for networking equipment.
 If you're working on cloud transformation, datacenter modernization,Optimization or infrastructure strategy, I’d love to collaborate.
 
 🔗 [LinkedIn](https://www.linkedin.com/in/kunalkv)  
-📧 github.ablaze588@passinbox.com
